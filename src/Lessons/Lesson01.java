@@ -1,5 +1,5 @@
-package Learning;
-public class Lesson_01 {
+package Lessons;
+public class Lesson01 {
     public static void main(String[] args){
         System.out.println("Hello, world!");
 

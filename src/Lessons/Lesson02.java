@@ -1,8 +1,8 @@
-package Learning;
+package Lessons;
 
 import java.util.Scanner; //Для ввода ин-ии
 
-public class Lesson_02 {
+public class Lesson02 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
