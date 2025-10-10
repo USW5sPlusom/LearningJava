@@ -5,8 +5,4 @@ public class Lesson05 {
 
     }
 
-    public static void Student(){
-
-    }
-
 }

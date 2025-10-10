@@ -15,6 +15,7 @@ public class Lesson04 {
         System.out.println(numbers);
         System.out.println(Arrays.toString(numbers) + Arrays.toString(names));
 
+        //фактически уже коллекция а не массив
         List<String> list1 = new ArrayList<>(12);
         list1.add("Veta");
         list1.add("Veyiusia");
