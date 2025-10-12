@@ -2,7 +2,7 @@ package Notes;
 
 import java.util.ArrayList;
 
-public class Note2 {
+public class Note02 {
     public static void main(String[] args){
         int[] mass = {4,7};
         mass[0] = -5;
